@@ -11,24 +11,24 @@ mesma ordem em que foram digitadas.
 
 ### Diagrama de classe
 <span align="center">
-  <img src="./assets/img/08-heranca-e-polimorfismo.jpg" width="350" title="hover text" alt="accessibility text">
+  <img src="https://raw.githubusercontent.com/cernandes/metodo-abstrato-java/main/assets/img/class-diagram.jpg" width="350" title="hover text" alt="accessibility text">
 </span>
 
 ### exemplo de entrada de dados
 Enter the number of shapes: <span style="color: red">2</span><br>
-Shape #<span style="color: blue">1</span> data:
-Rectangle or Circle (r/c)? <span style="color: red">r</span>
-Color (BLACK/BLUE/RED): <span style="color: red">BLACK</span>
-Width: <span style="color: red">4.0</span>
+Shape #<span style="color: blue">1</span> data:<br>
+Rectangle or Circle (r/c)? <span style="color: red">r</span><br>
+Color (BLACK/BLUE/RED): <span style="color: red">BLACK</span><br>
+Width: <span style="color: red">4.0</span><br>
 Height: <span style="color: red">5.0</span><br>
-Shape #<span style="color: blue">2</span> data:
-Rectangle or Circle (r/c)? <span style="color: red">c</span>
-Color (BLACK/BLUE/RED): <span style="color: red">RED</span>
+Shape #<span style="color: blue">2</span> data:<br>
+Rectangle or Circle (r/c)? <span style="color: red">c</span><br>
+Color (BLACK/BLUE/RED): <span style="color: red">RED</span><br>
 Radius: <span style="color: red">3.0</span>
 
 ### Saída de dados
-<span>SHAPE AREAS:</span>
-<span>20.00<span>
+<span>SHAPE AREAS:</span><br>
+<span>20.00<span><br>
 <span>28.27</span>
 
 ### Referência
